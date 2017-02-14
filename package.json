@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "gulp": "*",
+    "gulp-clean": "*",
+    "gulp-if": "*",
+    "gulp-uncache": "^*",
+    "gulp-useref": "*",
+    "gulp-util": "*",
+    "gulp-clean-css": "3.x"
+  }
+}
